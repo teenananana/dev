@@ -1,3 +1,3 @@
 this is  a new repo 
 git is a version control system
-github is devloper platform
+github is devloper platform where you can save commit and changes to code
