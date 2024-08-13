@@ -4,5 +4,5 @@ devlopment is a version control system
 devlab is a version control system
 
 This is a new feature added in branch prathamesh
-This is 2nd feature in branch Prathamesh
+This feature is changed in Prathamesh
 New line added
